@@ -1,0 +1,49 @@
+body {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12;
+  line-height: normal;
+}
+
+h1 {
+  color: blue;
+  font-family: 'Times New Roman', Times, serif;
+  line-height: normal;
+}
+
+link {
+
+}
+
+img {
+  border-radius: 200px;
+}
+
+.top_stuff {
+  background-color: rgb(243, 233, 233);
+}
+
+.second_stuff {
+  background-color: rgb(247, 171, 56);
+}
+
+.container {
+  text-align: center;
+  margin: 0 auto;
+}
+
+button {
+  text-align: left;
+  margin: 50px;
+  background-color: orange;
+}
+
+.second_stuff > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.second_stuff {
+  list-style: none;
+  padding-left: 0px;
+}
